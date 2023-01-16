@@ -29,7 +29,7 @@ font-family: 'Sofia Sans Extra Condensed', sans-serif;
   .bt{
     background-color: aqua;
     float: right;
-    margin-right: 10rem;
+    margin-right: 5rem;
     margin-top: rem;
   }
   h3{
@@ -37,5 +37,26 @@ font-family: 'Sofia Sans Extra Condensed', sans-serif;
   }
   .ex{
     margin-top: 36rem;
+    text-align: center;
+  }
+  #myd{
+    width: 20rem;
+    /* height: 30rem; */
+  }
+  #ex{
+    width: 20rem;    
+    height: 30rem;
+  }
+  #ex1{
+    width: 20rem;
+    height: 30rem;
+
+  }
+  #ex2{
+    width: 20rem;
+    height: 30rem;
+
+  }
+  #ed{
     text-align: center;
   }
