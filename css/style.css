@@ -1,4 +1,5 @@
 body{
+    background-color: antiquewhite;
     font-family: 'Hanken Grotesk', sans-serif;
 font-family: 'Sofia Sans Extra Condensed', sans-serif;
 }
@@ -10,7 +11,7 @@ font-family: 'Sofia Sans Extra Condensed', sans-serif;
     margin-top: -39rem;
     margin-left: 20rem;
     text-align: right;
-    font-size: 80px;
+    font-size: 60px;
     color: #fff;
     text-align: center;
     animation: glow 1s ease-in-out infinite alternate;
@@ -29,5 +30,12 @@ font-family: 'Sofia Sans Extra Condensed', sans-serif;
     background-color: aqua;
     float: right;
     margin-right: 10rem;
-    margin-top: 2rem;
+    margin-top: rem;
+  }
+  h3{
+    color: black;
+  }
+  .ex{
+    margin-top: 36rem;
+    text-align: center;
   }
