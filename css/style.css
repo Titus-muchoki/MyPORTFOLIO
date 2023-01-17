@@ -87,4 +87,10 @@ font-family: 'Sofia Sans Extra Condensed', sans-serif;
   }
   .vid{
     float: right;
+    margin-top: -30rem;
+    height: 30rem;
+  }
+  h4{
+    color: white;
+    padding-top: 3rem;
   }
