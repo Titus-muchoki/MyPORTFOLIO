@@ -60,3 +60,13 @@ font-family: 'Sofia Sans Extra Condensed', sans-serif;
   #ed{
     text-align: center;
   }
+  ol{
+    /* text-align: center; */
+    margin-left: 20rem;
+  }
+  #cer{
+    margin-left: 20rem;
+  }
+  #pro{
+    text-align: center;
+  }
