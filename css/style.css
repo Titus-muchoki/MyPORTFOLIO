@@ -4,11 +4,16 @@ body{
 font-family: 'Sofia Sans Extra Condensed', sans-serif;
 }
 #one{
-    height: 23rem;
+    /* height: 23rem; */
+}
+.card{
+  margin-top: 5rem;
+  /* height: 10rem; */
 }
 
 .glow {
-    margin-top: -39rem;
+   /* background-color: #080206; */
+    margin-top: -43rem;
     margin-left: 20rem;
     text-align: right;
     font-size: 40px;
@@ -29,7 +34,8 @@ font-family: 'Sofia Sans Extra Condensed', sans-serif;
   .bt{
     background-color: aqua;
     float: right;
-    margin-right: 5rem;
+    margin-right: 1rem;
+    margin-left: 25rem;
     margin-top: 1rem;
   }
   h3{
@@ -108,6 +114,15 @@ font-family: 'Sofia Sans Extra Condensed', sans-serif;
     body {
       background-color: lightblue;
     }
+  }
+  .card-body{
+    background-color: #080206;
+  }
+  h5,h6{
+    color: white;
+  }
+  .experince{
+    margin-top: 8rem;
   }
   /* #pro{
     width: 100%;
